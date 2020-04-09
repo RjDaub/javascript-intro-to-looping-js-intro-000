@@ -8,3 +8,10 @@ function forLoop(strangeArray) {
   }
   return strangeArray;
 }
+
+function whileLoop(number); {
+  while (number > 0) {
+    console.log(--number);
+  }
+  return 'done';
+}
